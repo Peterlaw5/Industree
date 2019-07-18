@@ -1,0 +1,30 @@
+{
+"skeleton": { "hash": "RyfeTKoJ5hXoT0r140ajHfHkMos", "spine": "3.6.53", "width": 1098.03, "height": 624.71, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "innaffiatoio con bordo", "parent": "root", "length": 682.05, "rotation": 145.62, "x": 417.05, "y": 29.7 }
+],
+"slots": [
+	{ "name": "innaffiatoio con bordo", "bone": "innaffiatoio con bordo", "attachment": "innaffiatoio con bordo" }
+],
+"skins": {
+	"default": {
+		"innaffiatoio con bordo": {
+			"innaffiatoio con bordo": { "x": 271.07, "y": -135.24, "scaleX": 0.284, "scaleY": 0.284, "rotation": -145.08, "width": 3840, "height": 2160 }
+		}
+	}
+},
+"animations": {
+	"innaffiatoio": {
+		"bones": {
+			"innaffiatoio con bordo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 15.23 },
+					{ "time": 1.3333, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

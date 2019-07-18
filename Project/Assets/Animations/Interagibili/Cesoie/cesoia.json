@@ -1,0 +1,46 @@
+{
+"skeleton": { "hash": "NcRHA1+vfvGTnoAjKY9BIsKGSP0", "spine": "3.6.53", "width": 835.75, "height": 922.03, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Cesoia front", "parent": "root", "rotation": 45.59, "x": 25.28, "y": 472.69 },
+	{ "name": "cesoia back", "parent": "root", "rotation": 45.59, "x": 10.83, "y": 468.05 }
+],
+"slots": [
+	{ "name": "cesoia back", "bone": "cesoia back", "attachment": "cesoia back" },
+	{ "name": "cesoia front", "bone": "Cesoia front", "attachment": "cesoia front" }
+],
+"skins": {
+	"default": {
+		"cesoia back": {
+			"cesoia back": { "x": -43.82, "y": -46.14, "width": 817, "height": 319 }
+		},
+		"cesoia front": {
+			"cesoia front": { "x": 17.92, "y": 50.66, "rotation": 2.18, "width": 350, "height": 811 }
+		}
+	}
+},
+"animations": {
+	"cesoie": {
+		"bones": {
+			"Cesoia front": {
+				"rotate": [
+					{ "time": 0, "angle": -17.85 },
+					{ "time": 0.3333, "angle": 22.9 },
+					{ "time": 0.6667, "angle": -17.85 }
+				],
+				"translate": [
+					{ "time": 0, "x": 1.7, "y": -4.52, "curve": "stepped" },
+					{ "time": 0.6667, "x": 1.7, "y": -4.52 }
+				]
+			},
+			"cesoia back": {
+				"rotate": [
+					{ "time": 0, "angle": -1.2 },
+					{ "time": 0.3333, "angle": -33.96 },
+					{ "time": 0.6667, "angle": -1.2 }
+				]
+			}
+		}
+	}
+}
+}

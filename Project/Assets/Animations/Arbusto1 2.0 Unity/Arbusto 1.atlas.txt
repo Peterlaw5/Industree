@@ -1,0 +1,181 @@
+
+Arbusto 1.png
+size: 5542,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guance
+  rotate: false
+  xy: 4472, 153
+  size: 159, 21
+  orig: 159, 21
+  offset: 0, 0
+  index: -1
+Happiness face
+  rotate: true
+  xy: 3496, 3
+  size: 192, 23
+  orig: 192, 23
+  offset: 0, 0
+  index: -1
+Idle face
+  rotate: true
+  xy: 4713, 68
+  size: 142, 34
+  orig: 142, 34
+  offset: 0, 0
+  index: -1
+Sadness face 2
+  rotate: true
+  xy: 4649, 32
+  size: 142, 30
+  orig: 142, 30
+  offset: 0, 0
+  index: -1
+Scared face
+  rotate: false
+  xy: 4472, 176
+  size: 239, 34
+  orig: 239, 34
+  offset: 0, 0
+  index: -1
+Sleeping face
+  rotate: false
+  xy: 4472, 216
+  size: 241, 31
+  orig: 241, 31
+  offset: 0, 0
+  index: -1
+Smile mouth
+  rotate: true
+  xy: 4722, 27
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+Surprised
+  rotate: true
+  xy: 4715, 212
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+braccio dx
+  rotate: false
+  xy: 3522, 41
+  size: 328, 206
+  orig: 328, 206
+  offset: 0, 0
+  index: -1
+braccio dx f
+  rotate: false
+  xy: 3852, 41
+  size: 328, 206
+  orig: 328, 206
+  offset: 0, 0
+  index: -1
+braccio sx
+  rotate: false
+  xy: 4750, 306
+  size: 790, 296
+  orig: 790, 296
+  offset: 0, 0
+  index: -1
+braccio sx f
+  rotate: false
+  xy: 4750, 8
+  size: 790, 296
+  orig: 790, 296
+  offset: 0, 0
+  index: -1
+ciglia
+  rotate: true
+  xy: 4633, 16
+  size: 158, 14
+  orig: 158, 14
+  offset: 0, 0
+  index: -1
+foglia braccio dx f
+  rotate: false
+  xy: 2626, 20
+  size: 288, 175
+  orig: 288, 175
+  offset: 0, 0
+  index: -1
+foglia braccio sx f
+  rotate: false
+  xy: 2916, 20
+  size: 288, 175
+  orig: 288, 175
+  offset: 0, 0
+  index: -1
+foglia dx
+  rotate: false
+  xy: 3206, 20
+  size: 288, 175
+  orig: 288, 175
+  offset: 0, 0
+  index: -1
+foglia superiore 1
+  rotate: true
+  xy: 3522, 249
+  size: 353, 612
+  orig: 353, 612
+  offset: 0, 0
+  index: -1
+foglia superiore 1 f
+  rotate: true
+  xy: 4136, 249
+  size: 353, 612
+  orig: 353, 612
+  offset: 0, 0
+  index: -1
+foglia superiore 2
+  rotate: true
+  xy: 2626, 197
+  size: 405, 446
+  orig: 405, 446
+  offset: 0, 0
+  index: -1
+foglia superiore 2 f
+  rotate: true
+  xy: 3074, 197
+  size: 405, 446
+  orig: 405, 446
+  offset: 0, 0
+  index: -1
+foglia sx
+  rotate: false
+  xy: 4182, 72
+  size: 288, 175
+  orig: 288, 175
+  offset: 0, 0
+  index: -1
+gradient corpo
+  rotate: true
+  xy: 2, 53
+  size: 549, 1310
+  orig: 549, 1310
+  offset: 0, 0
+  index: -1
+gradient corpo f
+  rotate: true
+  xy: 1314, 53
+  size: 549, 1310
+  orig: 549, 1310
+  offset: 0, 0
+  index: -1
+sadness mouth
+  rotate: true
+  xy: 4681, 2
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+super happiness mouth
+  rotate: false
+  xy: 4681, 43
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+luci di natale.png
+size: 3922,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: true
+  xy: 2405, 295
+  size: 222, 705
+  orig: 222, 705
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: true
+  xy: 2, 32
+  size: 485, 556
+  orig: 485, 556
+  offset: 0, 0
+  index: -1
+Layer 34
+  rotate: true
+  xy: 1083, 145
+  size: 372, 674
+  orig: 372, 674
+  offset: 0, 0
+  index: -1
+Layer 43
+  rotate: true
+  xy: 3511, 295
+  size: 222, 409
+  orig: 222, 409
+  offset: 0, 0
+  index: -1
+Layer 44
+  rotate: true
+  xy: 560, 2
+  size: 515, 521
+  orig: 515, 521
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: true
+  xy: 1759, 6
+  size: 190, 674
+  orig: 190, 674
+  offset: 0, 0
+  index: -1
+Layer 46
+  rotate: true
+  xy: 1759, 198
+  size: 319, 644
+  orig: 319, 644
+  offset: 0, 0
+  index: -1
+Layer 47
+  rotate: false
+  xy: 2925, 3
+  size: 156, 290
+  orig: 156, 290
+  offset: 0, 0
+  index: -1
+Layer 48
+  rotate: false
+  xy: 3112, 93
+  size: 397, 424
+  orig: 397, 424
+  offset: 0, 0
+  index: -1
+Layer 49
+  rotate: true
+  xy: 1083, 12
+  size: 131, 522
+  orig: 131, 522
+  offset: 0, 0
+  index: -1
+Layer 50
+  rotate: true
+  xy: 3511, 110
+  size: 183, 348
+  orig: 183, 348
+  offset: 0, 0
+  index: -1
+Layer 51
+  rotate: true
+  xy: 2435, 33
+  size: 260, 488
+  orig: 260, 488
+  offset: 0, 0
+  index: -1

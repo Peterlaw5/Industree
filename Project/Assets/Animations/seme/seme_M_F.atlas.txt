@@ -1,0 +1,97 @@
+
+seme_M_F.png
+size: 888,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guance
+  rotate: false
+  xy: 2, 12
+  size: 205, 13
+  orig: 205, 13
+  offset: 0, 0
+  index: -1
+Happiness face
+  rotate: true
+  xy: 872, 137
+  size: 143, 13
+  orig: 143, 13
+  offset: 0, 0
+  index: -1
+Idle face
+  rotate: false
+  xy: 209, 5
+  size: 139, 20
+  orig: 139, 20
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 2, 27
+  size: 253, 433
+  orig: 253, 433
+  offset: 0, 0
+  index: -1
+Line f
+  rotate: true
+  xy: 437, 27
+  size: 253, 433
+  orig: 253, 433
+  offset: 0, 0
+  index: -1
+Sadness face 2
+  rotate: false
+  xy: 491, 7
+  size: 139, 18
+  orig: 139, 18
+  offset: 0, 0
+  index: -1
+Scared face
+  rotate: false
+  xy: 350, 5
+  size: 139, 20
+  orig: 139, 20
+  offset: 0, 0
+  index: -1
+Sleeping face
+  rotate: false
+  xy: 632, 15
+  size: 137, 10
+  orig: 137, 10
+  offset: 0, 0
+  index: -1
+Smile mouth
+  rotate: true
+  xy: 872, 88
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+Surprised mounth
+  rotate: false
+  xy: 786, 6
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+ciglia
+  rotate: false
+  xy: 2, 2
+  size: 147, 8
+  orig: 147, 8
+  offset: 0, 0
+  index: -1
+sadness mouth
+  rotate: true
+  xy: 771, 2
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+super happiness mouth
+  rotate: true
+  xy: 872, 112
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1

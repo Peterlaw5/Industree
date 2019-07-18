@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1599510377560618889
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5308134382158401091}
+  - component: {fileID: 5690050522616355301}
+  m_Layer: 0
+  m_Name: DialogsController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5308134382158401091
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599510377560618889}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12.84, y: 1.09, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3249102457508977894}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5690050522616355301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599510377560618889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 631c92acab0aacb428e2ecd4a9fb7765, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogsPrefabs:
+  - {fileID: 4104511617238567136, guid: 69d55fcd29f461f479dfff4ae0ccebef, type: 3}
+  - {fileID: 4104511617238567136, guid: 34d21c84e82b3054abc1b5dbb0c7a79d, type: 3}
+  - {fileID: 4104511617238567136, guid: 7235ba1f096ae6d4d8bfc22b9aefb6f5, type: 3}
+  - {fileID: 4104511617238567136, guid: 6fe07ddba656d1e44b7dc39e001b4f51, type: 3}
+  - {fileID: 4104511617238567136, guid: 3d30a6e4196162749aa67afcf29efd2f, type: 3}
+  - {fileID: 4104511617238567136, guid: 3b97930717286804599c3c1dd9723f35, type: 3}
+  - {fileID: 4104511617238567136, guid: 0d7403e32d93f1849861ec88c3ab9354, type: 3}
+  - {fileID: 4104511617238567136, guid: 986678bf8375add489ffdf62592e9602, type: 3}
+  - {fileID: 4104511617238567136, guid: 4ce6732b5fcbb994eac2b64ca3922eed, type: 3}
+  - {fileID: 4104511617238567136, guid: b197b86196ae76c4dae13fc989ec22fb, type: 3}
+  - {fileID: 4104511617238567136, guid: b606ed7977171f344bd77266f1deae6c, type: 3}
+  - {fileID: 4104511617238567136, guid: 0ed4ff7c61dff5641be5cfb32312eec9, type: 3}
+  dialogsSpawnTime: 30
+  dialogsDurationTime: 7
+  spawnPoint: {fileID: 5308134382158401091}
+  criticalMessageSpawnPoint: {fileID: 3249102457508977894}
+  flipDialogs: 0
+  talk: {fileID: 0}
+  alert: {fileID: 0}
+--- !u!1 &1854301497312011449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3249102457508977894}
+  m_Layer: 0
+  m_Name: Critical Message Spawn Point
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3249102457508977894
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1854301497312011449}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -11.55, y: 0.67, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5308134382158401091}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

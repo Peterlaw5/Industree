@@ -1,0 +1,13 @@
+
+occhiali da sole.png
+size: 982,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 978, 362
+  orig: 978, 362
+  offset: 0, 0
+  index: -1

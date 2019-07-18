@@ -1,0 +1,54 @@
+{
+"skeleton": { "hash": "VJ3LGLpLemgJ6Sw9vnixoBRbA9I", "spine": "3.6.53", "width": 2410, "height": 2019, "images": "./Zucca Spine/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "occhio dx", "parent": "root", "x": 514.56, "y": 1061.67 },
+	{ "name": "occhio sx", "parent": "root", "x": -585.55, "y": 1071.27 }
+],
+"slots": [
+	{ "name": "Zucca", "bone": "root", "attachment": "Zucca" },
+	{ "name": "occhio dx", "bone": "occhio dx", "attachment": "occhio dx" },
+	{ "name": "occhio sx", "bone": "occhio sx", "attachment": "occhio sx" }
+],
+"skins": {
+	"default": {
+		"Zucca": {
+			"Zucca": { "x": 2, "y": 1008.5, "width": 2410, "height": 2019 }
+		},
+		"occhio dx": {
+			"occhio dx": { "y": 3.2, "width": 589, "height": 589 }
+		},
+		"occhio sx": {
+			"occhio sx": { "x": -6.4, "y": -3.2, "width": 589, "height": 589 }
+		}
+	}
+},
+"animations": {
+	"Zucca": {
+		"bones": {
+			"occhio sx": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.4, "x": 1.288, "y": 1.288 },
+					{ "time": 0.7667, "x": 1, "y": 1 },
+					{ "time": 1.1667, "x": 1.288, "y": 1.288 },
+					{ "time": 1.5333, "x": 1, "y": 1 },
+					{ "time": 1.9333, "x": 1.288, "y": 1.288 },
+					{ "time": 2.3333, "x": 1, "y": 1 }
+				]
+			},
+			"occhio dx": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.4, "x": 1.288, "y": 1.288 },
+					{ "time": 0.7667, "x": 1, "y": 1 },
+					{ "time": 1.1667, "x": 1.288, "y": 1.288 },
+					{ "time": 1.5333, "x": 1, "y": 1 },
+					{ "time": 1.9333, "x": 1.288, "y": 1.288 },
+					{ "time": 2.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

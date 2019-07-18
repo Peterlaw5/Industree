@@ -1,0 +1,129 @@
+{
+"skeleton": { "hash": "Q4t60Kpm5PK3IjYGeJ6G5LEPGVA", "spine": "3.6.53", "width": 1456.28, "height": 1558.63, "images": "./Zzz Spine/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "z1", "parent": "root", "x": -1773.95, "y": -1938.6 },
+	{ "name": "z2", "parent": "root", "x": -771.71, "y": -880.61 },
+	{ "name": "z3", "parent": "root", "x": 342.15, "y": 379.17 }
+],
+"slots": [
+	{ "name": "z1", "bone": "z1", "attachment": "z1" },
+	{ "name": "z2", "bone": "z2", "attachment": "z2" },
+	{ "name": "z3", "bone": "z3", "attachment": "z3" },
+	{ "name": "tracciato", "bone": "root", "attachment": "tracciato" }
+],
+"path": [
+	{
+		"name": "tracciato 1",
+		"order": 0,
+		"bones": [ "z1" ],
+		"target": "tracciato"
+	},
+	{
+		"name": "tracciato 2",
+		"order": 1,
+		"bones": [ "z2" ],
+		"target": "tracciato"
+	},
+	{
+		"name": "tracciato 3",
+		"order": 2,
+		"bones": [ "z3" ],
+		"target": "tracciato"
+	}
+],
+"skins": {
+	"default": {
+		"tracciato": {
+			"tracciato": {
+				"type": "path",
+				"lengths": [ 4451.15, 9211.69 ],
+				"vertexCount": 6,
+				"vertices": [ -2573.47, -2642.87, -2157.01, -2430, -74.78, -1365.71, 425.5, 416.92, 487.19, 963.39, 565.23, 1654.58 ]
+			}
+		},
+		"z1": {
+			"z1": { "x": 24.61, "y": 8.1, "width": 975, "height": 1172 }
+		},
+		"z2": {
+			"z2": { "x": -2.81, "y": 13.67, "scaleX": 1.298, "scaleY": 1.298, "width": 767, "height": 922 }
+		},
+		"z3": {
+			"z3": { "x": 7.21, "y": -58.83, "scaleX": 1.453, "scaleY": 1.453, "width": 666, "height": 800 }
+		}
+	}
+},
+"animations": {
+	"zzz": {
+		"slots": {
+			"z1": {
+				"color": [
+					{ "time": 0.8333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"z2": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 2.1667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "z2" }
+				]
+			},
+			"z3": {
+				"color": [
+					{ "time": 1.8333, "color": "ffffffff" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "z3" }
+				]
+			}
+		},
+		"paths": {
+			"tracciato 1": {
+				"position": [
+					{ "time": 0 },
+					{ "time": 1.6667, "position": 1 }
+				],
+				"spacing": [
+					{ "time": 0 }
+				],
+				"mix": [
+					{ "time": 0 },
+					{ "time": 0.3333, "rotateMix": 0.431 },
+					{ "time": 1.6667, "rotateMix": 0 }
+				]
+			},
+			"tracciato 2": {
+				"position": [
+					{ "time": 0.5 },
+					{ "time": 2.1667, "position": 1 }
+				],
+				"mix": [
+					{ "time": 0.5, "rotateMix": 0 },
+					{ "time": 0.8333, "rotateMix": 0.383 },
+					{ "time": 2.1667, "rotateMix": 0 }
+				]
+			},
+			"tracciato 3": {
+				"position": [
+					{ "time": 1 },
+					{ "time": 2.6667, "position": 1 }
+				],
+				"spacing": [
+					{ "time": 1 }
+				],
+				"mix": [
+					{ "time": 1 },
+					{ "time": 1.3333, "rotateMix": 0.263 },
+					{ "time": 2.6667, "rotateMix": 0 }
+				]
+			}
+		}
+	}
+}
+}

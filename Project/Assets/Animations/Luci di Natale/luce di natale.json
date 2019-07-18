@@ -1,0 +1,48 @@
+{
+"skeleton": { "hash": "Gu3gYyzWWahwC/6TVMLowVPneS4", "spine": "3.6.53", "width": 1906, "height": 1745, "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "lampadine", "bone": "root", "attachment": "lampadine" },
+	{ "name": "luci 1", "bone": "root", "attachment": "luci 1" },
+	{ "name": "luci 2", "bone": "root", "attachment": "luci 2" }
+],
+"skins": {
+	"default": {
+		"lampadine": {
+			"lampadine": { "x": -8.5, "y": 60.5, "width": 1831, "height": 1589 }
+		},
+		"luci 1": {
+			"luci 1": { "x": 42, "y": -16.5, "width": 1806, "height": 1501 }
+		},
+		"luci 2": {
+			"luci 2": { "x": -8, "y": 13.5, "width": 1906, "height": 1745 }
+		}
+	}
+},
+"animations": {
+	"luci natale": {
+		"slots": {
+			"luci 1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "luci 1" },
+					{ "time": 2, "name": null },
+					{ "time": 3, "name": "luci 1" },
+					{ "time": 4, "name": null }
+				]
+			},
+			"luci 2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": null },
+					{ "time": 2, "name": "luci 2" },
+					{ "time": 3, "name": "luci 2" },
+					{ "time": 4, "name": null }
+				]
+			}
+		}
+	}
+}
+}

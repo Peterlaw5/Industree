@@ -1,0 +1,13 @@
+
+occhiali.png
+size: 1833,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 4
+  rotate: false
+  xy: 2, 2
+  size: 1829, 549
+  orig: 1829, 549
+  offset: 0, 0
+  index: -1

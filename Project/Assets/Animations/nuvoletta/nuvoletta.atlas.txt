@@ -1,0 +1,76 @@
+
+nuvoletta.png
+size: 2287,2951
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nuvola 1
+  rotate: false
+  xy: 1959, 2716
+  size: 254, 233
+  orig: 254, 233
+  offset: 0, 0
+  index: -1
+nuvola 10
+  rotate: false
+  xy: 2, 1974
+  size: 985, 975
+  orig: 985, 975
+  offset: 0, 0
+  index: -1
+nuvola 2
+  rotate: true
+  xy: 1946, 1644
+  size: 376, 339
+  orig: 376, 339
+  offset: 0, 0
+  index: -1
+nuvola 3
+  rotate: true
+  xy: 1538, 2
+  size: 477, 473
+  orig: 477, 473
+  offset: 0, 0
+  index: -1
+nuvola 4
+  rotate: true
+  xy: 1538, 481
+  size: 611, 639
+  orig: 611, 639
+  offset: 0, 0
+  index: -1
+nuvola 5
+  rotate: false
+  xy: 809, 257
+  size: 727, 766
+  orig: 727, 766
+  offset: 0, 0
+  index: -1
+nuvola 6
+  rotate: false
+  xy: 2, 174
+  size: 805, 849
+  orig: 805, 849
+  offset: 0, 0
+  index: -1
+nuvola 7
+  rotate: true
+  xy: 2, 1025
+  size: 947, 953
+  orig: 947, 953
+  offset: 0, 0
+  index: -1
+nuvola 8
+  rotate: true
+  xy: 989, 2022
+  size: 927, 968
+  orig: 927, 968
+  offset: 0, 0
+  index: -1
+nuvola 9
+  rotate: false
+  xy: 989, 1094
+  size: 955, 926
+  orig: 955, 926
+  offset: 0, 0
+  index: -1

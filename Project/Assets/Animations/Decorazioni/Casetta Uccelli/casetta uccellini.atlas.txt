@@ -1,0 +1,13 @@
+
+casetta uccellini.png
+size: 1062,1731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+casetta alberi
+  rotate: false
+  xy: 2, 2
+  size: 1058, 1727
+  orig: 1058, 1727
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+{
+"skeleton": { "hash": "LvgC9iG/wtwec37We3KHIWbqvnc", "spine": "3.6.53", "width": 779.03, "height": 288.1, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Layer 5", "parent": "root", "x": -1.37, "y": 97.51 }
+],
+"slots": [
+	{ "name": "Layer 5", "bone": "Layer 5", "attachment": "Layer 5" }
+],
+"skins": {
+	"default": {
+		"Layer 5": {
+			"Layer 5": { "x": 1.37, "y": -97.51, "scaleX": 0.398, "scaleY": 0.398, "width": 1955, "height": 723 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

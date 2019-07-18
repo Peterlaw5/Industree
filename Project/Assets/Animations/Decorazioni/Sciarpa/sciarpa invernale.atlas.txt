@@ -1,0 +1,34 @@
+
+sciarpa invernale.png
+size: 5158,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bordo frangia
+  rotate: false
+  xy: 3364, 2
+  size: 895, 553
+  orig: 895, 553
+  offset: 0, 0
+  index: -1
+bordo sciarpa
+  rotate: false
+  xy: 2, 20
+  size: 1679, 535
+  orig: 1679, 535
+  offset: 0, 0
+  index: -1
+sciarpa
+  rotate: false
+  xy: 1683, 20
+  size: 1679, 535
+  orig: 1679, 535
+  offset: 0, 0
+  index: -1
+sciarpa 2
+  rotate: false
+  xy: 4261, 2
+  size: 895, 553
+  orig: 895, 553
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,58 @@
+{
+"skeleton": { "hash": "Fm7tB72wxzuq9sBkkMM1eTv1Fh8", "spine": "3.6.53", "width": 889.57, "height": 1248.61, "images": "" },
+"bones": [
+	{ "name": "root", "rotation": -0.11 },
+	{ "name": "retino con bordo", "parent": "root", "length": 408.69, "rotation": 109.5, "x": 6.09, "y": -15.31, "shearY": -178.39 }
+],
+"slots": [
+	{ "name": "retino con bordo", "bone": "retino con bordo", "attachment": "retino con bordo" }
+],
+"skins": {
+	"default": {
+		"retino con bordo": {
+			"retino con bordo": { "x": -81.41, "y": 31.49, "rotation": -90.25, "width": 553, "height": 1113 }
+		}
+	}
+},
+"animations": {
+	"retino insetti": {
+		"bones": {
+			"retino con bordo": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.371, 0.56, 0.526, 0.82 ]
+					},
+					{
+						"time": 0.2667,
+						"angle": 26.83,
+						"curve": [ 0.58, 0.24, 0.724, 0.37 ]
+					},
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.371, 0.56, 0.526, 0.82 ]
+					},
+					{
+						"time": 0.2667,
+						"x": -225,
+						"y": -189,
+						"curve": [ 0.58, 0.24, 0.724, 0.37 ]
+					},
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.2667, "x": 1, "y": 0.911, "curve": "stepped" },
+					{ "time": 0.8333, "x": 1, "y": 0.911 }
+				]
+			}
+		}
+	}
+}
+}

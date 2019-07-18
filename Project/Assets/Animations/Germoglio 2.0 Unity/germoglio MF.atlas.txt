@@ -1,0 +1,118 @@
+
+germoglio MF.png
+size: 3047,822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guance
+  rotate: false
+  xy: 2076, 10
+  size: 577, 33
+  orig: 577, 33
+  offset: 0, 0
+  index: -1
+Guance f
+  rotate: true
+  xy: 2910, 243
+  size: 577, 33
+  orig: 577, 33
+  offset: 0, 0
+  index: -1
+Happiness face
+  rotate: true
+  xy: 2945, 29
+  size: 403, 35
+  orig: 403, 35
+  offset: 0, 0
+  index: -1
+Idle face
+  rotate: false
+  xy: 2076, 45
+  size: 392, 55
+  orig: 392, 55
+  offset: 0, 0
+  index: -1
+Sadness face 2
+  rotate: true
+  xy: 2997, 428
+  size: 392, 48
+  orig: 392, 48
+  offset: 0, 0
+  index: -1
+Scared face
+  rotate: false
+  xy: 2470, 46
+  size: 392, 54
+  orig: 392, 54
+  offset: 0, 0
+  index: -1
+Sleeping face
+  rotate: true
+  xy: 2945, 434
+  size: 386, 50
+  orig: 386, 50
+  offset: 0, 0
+  index: -1
+Smile mouth
+  rotate: false
+  xy: 2784, 9
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+Surprised
+  rotate: true
+  xy: 2864, 45
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+ciglia f
+  rotate: true
+  xy: 2982, 2
+  size: 424, 22
+  orig: 424, 22
+  offset: 0, 0
+  index: -1
+line body
+  rotate: true
+  xy: 2, 4
+  size: 816, 1035
+  orig: 816, 1035
+  offset: 0, 0
+  index: -1
+line body f
+  rotate: true
+  xy: 1039, 4
+  size: 816, 1035
+  orig: 816, 1035
+  offset: 0, 0
+  index: -1
+line leaf
+  rotate: false
+  xy: 2076, 102
+  size: 415, 718
+  orig: 415, 718
+  offset: 0, 0
+  index: -1
+line leaf f
+  rotate: false
+  xy: 2493, 102
+  size: 415, 718
+  orig: 415, 718
+  offset: 0, 0
+  index: -1
+sadness mouth
+  rotate: false
+  xy: 2719, 9
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+super happiness mouth
+  rotate: false
+  xy: 2655, 7
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1

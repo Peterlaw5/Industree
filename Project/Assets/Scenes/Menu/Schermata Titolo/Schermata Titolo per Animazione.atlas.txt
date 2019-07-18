@@ -1,0 +1,174 @@
+
+Schermata Titolo per Animazione.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foglia 1
+  rotate: false
+  xy: 2, 2
+  size: 541, 615
+  orig: 541, 615
+  offset: 0, 0
+  index: -1
+foglia 10
+  rotate: true
+  xy: 563, 1609
+  size: 437, 748
+  orig: 437, 748
+  offset: 0, 0
+  index: -1
+foglia 11
+  rotate: true
+  xy: 1075, 636
+  size: 529, 626
+  orig: 529, 626
+  offset: 0, 0
+  index: -1
+foglia 12
+  rotate: false
+  xy: 3329, 551
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+foglia 13
+  rotate: false
+  xy: 2332, 735
+  size: 427, 429
+  orig: 427, 429
+  offset: 0, 0
+  index: -1
+foglia 15
+  rotate: true
+  xy: 1302, 1167
+  size: 440, 737
+  orig: 440, 737
+  offset: 0, 0
+  index: -1
+foglia 2
+  rotate: false
+  xy: 3941, 949
+  size: 125, 446
+  orig: 125, 446
+  offset: 0, 0
+  index: -1
+foglia 3
+  rotate: true
+  xy: 2062, 1608
+  size: 438, 742
+  orig: 438, 742
+  offset: 0, 0
+  index: -1
+foglia 16
+  rotate: true
+  xy: 2062, 1608
+  size: 438, 742
+  orig: 438, 742
+  offset: 0, 0
+  index: -1
+foglia 4
+  rotate: false
+  xy: 1486, 246
+  size: 254, 388
+  orig: 254, 388
+  offset: 0, 0
+  index: -1
+foglia 5
+  rotate: false
+  xy: 545, 35
+  size: 469, 587
+  orig: 469, 587
+  offset: 0, 0
+  index: -1
+foglia 6
+  rotate: true
+  xy: 2761, 677
+  size: 472, 566
+  orig: 472, 566
+  offset: 0, 0
+  index: -1
+foglia 7
+  rotate: false
+  xy: 3550, 1397
+  size: 503, 649
+  orig: 503, 649
+  offset: 0, 0
+  index: -1
+foglia 8
+  rotate: true
+  xy: 563, 1167
+  size: 440, 737
+  orig: 440, 737
+  offset: 0, 0
+  index: -1
+foglia 9
+  rotate: true
+  xy: 2780, 1151
+  size: 455, 664
+  orig: 455, 664
+  offset: 0, 0
+  index: -1
+ombra 1
+  rotate: true
+  xy: 458, 624
+  size: 541, 615
+  orig: 541, 615
+  offset: 0, 0
+  index: -1
+ombra 10
+  rotate: true
+  xy: 1313, 1609
+  size: 437, 747
+  orig: 437, 747
+  offset: 0, 0
+  index: -1
+ombra 15
+  rotate: true
+  xy: 2041, 1166
+  size: 440, 737
+  orig: 440, 737
+  offset: 0, 0
+  index: -1
+ombra 16
+  rotate: true
+  xy: 2806, 1608
+  size: 438, 742
+  orig: 438, 742
+  offset: 0, 0
+  index: -1
+ombra 6
+  rotate: true
+  xy: 1703, 692
+  size: 472, 627
+  orig: 472, 627
+  offset: 0, 0
+  index: -1
+ombra 7
+  rotate: false
+  xy: 2, 1358
+  size: 559, 688
+  orig: 559, 688
+  offset: 0, 0
+  index: -1
+ombra 8
+  rotate: false
+  xy: 2, 619
+  size: 454, 737
+  orig: 454, 737
+  offset: 0, 0
+  index: -1
+risvoltino
+  rotate: false
+  xy: 1016, 145
+  size: 468, 477
+  orig: 468, 477
+  offset: 0, 0
+  index: -1
+risvoltino ombra
+  rotate: true
+  xy: 3446, 913
+  size: 482, 493
+  orig: 482, 493
+  offset: 0, 0
+  index: -1

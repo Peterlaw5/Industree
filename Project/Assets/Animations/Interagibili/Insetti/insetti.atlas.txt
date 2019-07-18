@@ -1,0 +1,300 @@
+
+insetti.png
+size: 2593,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base fase 1 copy
+  rotate: true
+  xy: 2, 8
+  size: 974, 1004
+  orig: 974, 1004
+  offset: 0, 0
+  index: -1
+base fase 2 copy
+  rotate: true
+  xy: 1008, 75
+  size: 907, 899
+  orig: 907, 899
+  offset: 0, 0
+  index: -1
+base fase 3 copy
+  rotate: true
+  xy: 1909, 294
+  size: 688, 682
+  orig: 688, 682
+  offset: 0, 0
+  index: -1
+mosca 1 ala dx copy
+  rotate: false
+  xy: 2297, 107
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+mosca 2 ala dx copy
+  rotate: false
+  xy: 2297, 107
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+mosca 1 ala sx copy
+  rotate: false
+  xy: 2029, 185
+  size: 84, 107
+  orig: 84, 107
+  offset: 0, 0
+  index: -1
+mosca 2 ala sx copy
+  rotate: false
+  xy: 2029, 185
+  size: 84, 107
+  orig: 84, 107
+  offset: 0, 0
+  index: -1
+mosca 1 corpo copy
+  rotate: true
+  xy: 2411, 8
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+mosca 2 corpo copy
+  rotate: true
+  xy: 2411, 8
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+mosca 10 ala dx copy
+  rotate: false
+  xy: 1172, 13
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+mosca 11 ala dx copy
+  rotate: false
+  xy: 1172, 13
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+mosca 12 ala dx copy
+  rotate: false
+  xy: 1172, 13
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+mosca 8 ala dx copy
+  rotate: false
+  xy: 1172, 13
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+mosca 9 ala dx copy
+  rotate: false
+  xy: 1172, 13
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+mosca 10 ala sx copy
+  rotate: false
+  xy: 1229, 9
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+mosca 11 ala sx copy
+  rotate: false
+  xy: 1229, 9
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+mosca 12 ala sx copy
+  rotate: false
+  xy: 1229, 9
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+mosca 8 ala sx copy
+  rotate: false
+  xy: 1229, 9
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+mosca 9 ala sx copy
+  rotate: false
+  xy: 1229, 9
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+mosca 10 corpo copy
+  rotate: true
+  xy: 1281, 14
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+mosca 11 corpo copy
+  rotate: true
+  xy: 1281, 14
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+mosca 12 corpo copy
+  rotate: true
+  xy: 1281, 14
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+mosca 8 corpo copy
+  rotate: true
+  xy: 1281, 14
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+mosca 9 corpo copy
+  rotate: true
+  xy: 1281, 14
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+mosca 13 ala dx copy
+  rotate: true
+  xy: 1008, 10
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+mosca 13 ala sx copy
+  rotate: true
+  xy: 2513, 217
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+mosca 13 corpo copy
+  rotate: false
+  xy: 1094, 4
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+mosca 3 ala dx copy
+  rotate: false
+  xy: 2227, 2
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+mosca 3 ala sx copy
+  rotate: false
+  xy: 2377, 108
+  size: 76, 104
+  orig: 76, 104
+  offset: 0, 0
+  index: -1
+mosca 3 corpo copy
+  rotate: true
+  xy: 2322, 14
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+mosca 4 ala dx copy
+  rotate: false
+  xy: 2115, 192
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+mosca 4 ala sx copy
+  rotate: true
+  xy: 2116, 10
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+mosca 4 corpo copy
+  rotate: true
+  xy: 2206, 194
+  size: 98, 88
+  orig: 98, 88
+  offset: 0, 0
+  index: -1
+mosca 5 ala dx copy
+  rotate: false
+  xy: 2116, 90
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+mosca 5 ala sx copy
+  rotate: true
+  xy: 2296, 214
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+mosca 5 corpo copy
+  rotate: true
+  xy: 2207, 95
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+mosca 6 ala dx copy
+  rotate: false
+  xy: 2455, 118
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+mosca 6 ala sx copy
+  rotate: true
+  xy: 2407, 217
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+mosca 6 corpo copy
+  rotate: false
+  xy: 2493, 35
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+mosca 7 ala dx copy
+  rotate: false
+  xy: 1909, 29
+  size: 96, 137
+  orig: 96, 137
+  offset: 0, 0
+  index: -1
+mosca 7 ala sx copy
+  rotate: false
+  xy: 1909, 168
+  size: 118, 124
+  orig: 118, 124
+  offset: 0, 0
+  index: -1
+mosca 7 corpo copy
+  rotate: true
+  xy: 2007, 44
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1

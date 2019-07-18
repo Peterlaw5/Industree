@@ -1,0 +1,20 @@
+
+girandola.png
+size: 1090,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asse
+  rotate: false
+  xy: 983, 2
+  size: 105, 1048
+  orig: 105, 1048
+  offset: 0, 0
+  index: -1
+girandola
+  rotate: false
+  xy: 2, 71
+  size: 979, 979
+  orig: 979, 979
+  offset: 0, 0
+  index: -1

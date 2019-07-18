@@ -1,0 +1,27 @@
+{
+"skeleton": { "hash": "wAwOA8d7JeFWjPwYJ3MqbB3tRng", "spine": "3.6.53", "width": 2703, "height": 1718, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "line foglioline", "parent": "root", "x": -15.98, "y": 298.77 }
+],
+"slots": [
+	{ "name": "line foglioline", "bone": "line foglioline" },
+	{ "name": "nido", "bone": "line foglioline", "attachment": "nido" }
+],
+"skins": {
+	"default": {},
+	"femmina": {
+		"nido": {
+			"nido": { "name": "nido femmina", "x": 31.48, "y": 184.2, "width": 2701, "height": 1716 }
+		}
+	},
+	"maschio": {
+		"nido": {
+			"nido": { "name": "line foglioline", "x": 31.48, "y": 184.23, "width": 2703, "height": 1718 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

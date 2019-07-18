@@ -1,0 +1,377 @@
+
+arbusto 2 .png
+size: 4471,825
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guance
+  rotate: false
+  xy: 3796, 334
+  size: 224, 33
+  orig: 224, 33
+  offset: 0, 0
+  index: -1
+Happiness face
+  rotate: false
+  xy: 3530, 731
+  size: 342, 36
+  orig: 342, 36
+  offset: 0, 0
+  index: -1
+Idle face
+  rotate: false
+  xy: 3306, 2
+  size: 226, 55
+  orig: 226, 55
+  offset: 0, 0
+  index: -1
+Sadness face 2
+  rotate: true
+  xy: 4416, 290
+  size: 227, 48
+  orig: 227, 48
+  offset: 0, 0
+  index: -1
+Scared face
+  rotate: false
+  xy: 3530, 769
+  size: 383, 54
+  orig: 383, 54
+  offset: 0, 0
+  index: -1
+Sleeping face
+  rotate: false
+  xy: 3915, 773
+  size: 386, 50
+  orig: 386, 50
+  offset: 0, 0
+  index: -1
+Smile mouth
+  rotate: false
+  xy: 4233, 354
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+Surprised
+  rotate: false
+  xy: 4101, 4
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+braccio sx f
+  rotate: false
+  xy: 3558, 539
+  size: 236, 190
+  orig: 236, 190
+  offset: 0, 0
+  index: -1
+braccvio dx f
+  rotate: false
+  xy: 3558, 347
+  size: 236, 190
+  orig: 236, 190
+  offset: 0, 0
+  index: -1
+ciglia f
+  rotate: false
+  xy: 3534, 6
+  size: 257, 22
+  orig: 257, 22
+  offset: 0, 0
+  index: -1
+corpo f
+  rotate: true
+  xy: 2, 6
+  size: 817, 1386
+  orig: 817, 1386
+  offset: 0, 0
+  index: -1
+foglia 1 f
+  rotate: false
+  xy: 2778, 244
+  size: 259, 385
+  orig: 259, 385
+  offset: 0, 0
+  index: -1
+foglia 2 f
+  rotate: true
+  xy: 3300, 347
+  size: 286, 256
+  orig: 286, 256
+  offset: 0, 0
+  index: -1
+foglia braccio dx 1
+  rotate: false
+  xy: 3564, 30
+  size: 196, 134
+  orig: 196, 134
+  offset: 0, 0
+  index: -1
+foglia braccio dx 1 f
+  rotate: false
+  xy: 3796, 369
+  size: 196, 134
+  orig: 196, 134
+  offset: 0, 0
+  index: -1
+foglia braccio dx 2
+  rotate: true
+  xy: 4145, 275
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+foglia braccio dx 2 f
+  rotate: true
+  xy: 4219, 43
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+foglia braccio dx 3
+  rotate: false
+  xy: 3793, 2
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+foglia braccio dx 3 f
+  rotate: false
+  xy: 3870, 2
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+foglia braccio sx 1
+  rotate: false
+  xy: 3977, 637
+  size: 196, 134
+  orig: 196, 134
+  offset: 0, 0
+  index: -1
+foglia braccio sx 1 f
+  rotate: false
+  xy: 3994, 389
+  size: 196, 134
+  orig: 196, 134
+  offset: 0, 0
+  index: -1
+foglia braccio sx 2
+  rotate: false
+  xy: 4338, 103
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+foglia braccio sx 2 f
+  rotate: false
+  xy: 4307, 15
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+foglia braccio sx 3
+  rotate: false
+  xy: 3947, 2
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+foglia braccio sx 3 f
+  rotate: false
+  xy: 4024, 2
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+foglia c1
+  rotate: false
+  xy: 3039, 244
+  size: 259, 385
+  orig: 259, 385
+  offset: 0, 0
+  index: -1
+foglia c2
+  rotate: true
+  xy: 3306, 59
+  size: 286, 256
+  orig: 286, 256
+  offset: 0, 0
+  index: -1
+foglia dx 0
+  rotate: false
+  xy: 2778, 18
+  size: 262, 224
+  orig: 262, 224
+  offset: 0, 0
+  index: -1
+foglia dx 0 f
+  rotate: false
+  xy: 3042, 18
+  size: 262, 224
+  orig: 262, 224
+  offset: 0, 0
+  index: -1
+foglia dx 1
+  rotate: true
+  xy: 3977, 525
+  size: 110, 189
+  orig: 110, 189
+  offset: 0, 0
+  index: -1
+foglia dx 1 f
+  rotate: false
+  xy: 4175, 582
+  size: 110, 189
+  orig: 110, 189
+  offset: 0, 0
+  index: -1
+foglia dx 2
+  rotate: false
+  xy: 4287, 618
+  size: 181, 106
+  orig: 181, 106
+  offset: 0, 0
+  index: -1
+foglia dx 2 f
+  rotate: false
+  xy: 3790, 226
+  size: 181, 106
+  orig: 181, 106
+  offset: 0, 0
+  index: -1
+foglia dx 3
+  rotate: true
+  xy: 3790, 122
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+foglia dx 3 f
+  rotate: true
+  xy: 3913, 122
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+foglia dx 4
+  rotate: true
+  xy: 4140, 157
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+foglia dx 4 f
+  rotate: false
+  xy: 4101, 58
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+foglia sx 0
+  rotate: false
+  xy: 3564, 166
+  size: 224, 179
+  orig: 224, 179
+  offset: 0, 0
+  index: -1
+foglia sx 0 f
+  rotate: true
+  xy: 3796, 505
+  size: 224, 179
+  orig: 224, 179
+  offset: 0, 0
+  index: -1
+foglia sx 1
+  rotate: false
+  xy: 4192, 391
+  size: 110, 189
+  orig: 110, 189
+  offset: 0, 0
+  index: -1
+foglia sx 1 f
+  rotate: false
+  xy: 4304, 328
+  size: 110, 189
+  orig: 110, 189
+  offset: 0, 0
+  index: -1
+foglia sx 2
+  rotate: false
+  xy: 4304, 726
+  size: 165, 97
+  orig: 165, 97
+  offset: 0, 0
+  index: -1
+foglia sx 2 f
+  rotate: false
+  xy: 4304, 519
+  size: 165, 97
+  orig: 165, 97
+  offset: 0, 0
+  index: -1
+foglia sx 3
+  rotate: true
+  xy: 4022, 285
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+foglia sx 3 f
+  rotate: false
+  xy: 4036, 162
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+foglia sx 4
+  rotate: true
+  xy: 4239, 172
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+foglia sx 4 f
+  rotate: false
+  xy: 4338, 191
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1
+line braccio dx
+  rotate: false
+  xy: 3277, 635
+  size: 251, 188
+  orig: 251, 188
+  offset: 0, 0
+  index: -1
+line braccio sx
+  rotate: false
+  xy: 2778, 631
+  size: 497, 192
+  orig: 497, 192
+  offset: 0, 0
+  index: -1
+line corpo
+  rotate: true
+  xy: 1390, 6
+  size: 817, 1386
+  orig: 817, 1386
+  offset: 0, 0
+  index: -1
+sadness mouth
+  rotate: false
+  xy: 4036, 125
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+super happiness mouth
+  rotate: true
+  xy: 3973, 270
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1

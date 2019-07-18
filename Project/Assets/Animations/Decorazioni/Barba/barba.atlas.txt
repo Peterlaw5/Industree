@@ -1,0 +1,13 @@
+
+barba.png
+size: 1070,1291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line barba
+  rotate: false
+  xy: 2, 2
+  size: 1066, 1287
+  orig: 1066, 1287
+  offset: 0, 0
+  index: -1

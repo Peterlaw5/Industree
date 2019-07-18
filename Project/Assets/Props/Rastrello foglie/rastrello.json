@@ -1,0 +1,36 @@
+{
+"skeleton": { "hash": "S5nIDfyBAQYgaKl6IMSIq0VDh9I", "spine": "3.6.53", "width": 1119.23, "height": 806.18, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "rastrello con bordo", "parent": "root", "length": 331.59, "rotation": -163.08, "x": -0.24, "y": -0.76 }
+],
+"slots": [
+	{ "name": "rastrello con bordo", "bone": "rastrello con bordo", "attachment": "rastrello con bordo" }
+],
+"skins": {
+	"default": {
+		"rastrello con bordo": {
+			"rastrello con bordo": { "x": -169.15, "y": -6.82, "rotation": -89.57, "width": 530, "height": 1007 }
+		}
+	}
+},
+"animations": {
+	"rastrello foglie": {
+		"bones": {
+			"rastrello con bordo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": 8.97 },
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0.6, "y": -1.55 },
+					{ "time": 0.3333, "x": -510.09, "y": 278.7 },
+					{ "time": 0.5, "x": -467.85, "y": -25.41 },
+					{ "time": 0.8333, "x": 0.6, "y": -1.55 }
+				]
+			}
+		}
+	}
+}
+}

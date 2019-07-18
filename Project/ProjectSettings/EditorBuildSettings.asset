@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: 4f8f4d0c36b074f45a076fabf9f68d27
+  - enabled: 1
+    path: Assets/Scenes/Menu/NewGame.unity
+    guid: 370512d21b860094ba914fd0e884e675
+  - enabled: 1
+    path: Assets/Scenes/Menu/Grove.unity
+    guid: 1fb7ac2d108875c4b9888391ffd7693c
+  - enabled: 1
+    path: Assets/Scenes/Menu/Options.unity
+    guid: dfd3adea00b73fc48a9ad6b7fe72c18a
+  - enabled: 1
+    path: Assets/Scenes/Menu/Credits.unity
+    guid: 8af8351c89a3e4e439e1522b30efc6ed
+  - enabled: 1
+    path: Assets/Scenes/Menu/Tutorial.unity
+    guid: 49e8286a6add480418587f9c99b00499
+  - enabled: 1
+    path: Assets/Scenes/Phase0.unity
+    guid: 4ebbd7bea6da96546b5485ae570bf5bb
+  - enabled: 1
+    path: Assets/Scenes/Phase1.unity
+    guid: 4a64909a6d4ddb740be92dd5dd7e07c8
+  - enabled: 1
+    path: Assets/Scenes/Phase2.unity
+    guid: 1435f7420eed95b48a2e8cc6bf8c55b0
+  - enabled: 1
+    path: Assets/Scenes/Phase3.unity
+    guid: eded51747cdef404b9700c20b8f6573b
+  - enabled: 1
+    path: Assets/Scenes/Phase4.unity
+    guid: 975f4d974ab8b4b4d87bc6f7cc289ca7
+  - enabled: 1
+    path: Assets/Scenes/Phase5.unity
+    guid: fc0df1af0af21944c852fb02cb615d47
+  m_configObjects: {}

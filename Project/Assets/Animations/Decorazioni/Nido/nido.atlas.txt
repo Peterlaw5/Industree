@@ -1,0 +1,20 @@
+
+nido.png
+size: 2709,863
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line foglioline
+  rotate: false
+  xy: 2, 2
+  size: 1352, 859
+  orig: 1352, 859
+  offset: 0, 0
+  index: -1
+nido femmina
+  rotate: false
+  xy: 1356, 3
+  size: 1351, 858
+  orig: 1351, 858
+  offset: 0, 0
+  index: -1

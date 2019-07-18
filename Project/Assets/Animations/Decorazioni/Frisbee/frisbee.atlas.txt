@@ -1,0 +1,20 @@
+
+frisbee.png
+size: 2849,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frisbee femmina
+  rotate: false
+  xy: 1426, 3
+  size: 1421, 792
+  orig: 1421, 792
+  offset: 0, 0
+  index: -1
+line foglioline
+  rotate: false
+  xy: 2, 2
+  size: 1422, 793
+  orig: 1422, 793
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+"skeleton": { "hash": "96VZehputanbS7+Hsjrb0a75+aE", "spine": "3.6.53", "width": 1955, "height": 3151, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "line alveare", "parent": "root", "length": 3044.78, "rotation": -89.85, "x": -0.87, "y": 3064.33 }
+],
+"slots": [
+	{ "name": "line alveare", "bone": "line alveare", "attachment": "line alveare" }
+],
+"skins": {
+	"default": {
+		"line alveare": {
+			"line alveare": { "x": 1498.81, "y": -7.51, "rotation": 89.85, "width": 1955, "height": 3151 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"line alveare": {
+				"rotate": [
+					{ "time": 0, "angle": 10.4 },
+					{ "time": 1.3333, "angle": -7.2 },
+					{ "time": 2.6667, "angle": 10.4 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,27 @@
+{
+"skeleton": { "hash": "AZsdanfd1ldGAC4TT128UEkJKuM", "spine": "3.6.53", "width": 2842, "height": 1584, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "line foglioline", "parent": "root", "x": 3.96, "y": 51.97 }
+],
+"slots": [
+	{ "name": "line foglioline", "bone": "line foglioline" },
+	{ "name": "frisbee", "bone": "line foglioline", "attachment": "frisbee" }
+],
+"skins": {
+	"default": {},
+	"femmina": {
+		"frisbee": {
+			"frisbee": { "name": "frisbee femmina", "x": 11.04, "y": -216, "width": 2842, "height": 1584 }
+		}
+	},
+	"maschio": {
+		"frisbee": {
+			"frisbee": { "name": "line foglioline", "x": 11.04, "y": -215.97, "width": 2844, "height": 1586 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}

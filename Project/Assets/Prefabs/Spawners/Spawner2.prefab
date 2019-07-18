@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8162940418309460559
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4004346031788193540}
+  - component: {fileID: 5422324244241876457}
+  m_Layer: 0
+  m_Name: Spawner2
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4004346031788193540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8162940418309460559}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -29.87, y: -3.69, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5422324244241876457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8162940418309460559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4f58cf824a3524a85663a150abf285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnArea: {x: -3.7, y: 17.5, z: 1.66, w: -2.41}
+  maxInteractablesInScene: 1
+  delayBetweenSpawn: 16
+  interactablesPrefabs:
+  - {fileID: 3700316811718394457, guid: 26a232b11d07dd14d9101a72a47ae52d, type: 3}
+  - {fileID: 6953863799947792746, guid: 12502b7adcb07924eaf84cba79e7e54f, type: 3}
+  - {fileID: 1582799659454791726, guid: d44394f90bb9394498db67f7a2e1728b, type: 3}
+  - {fileID: 1582799659454791726, guid: d08dc9d1513695643bef7d3b8300703c, type: 3}
+  - {fileID: 1582799659454791726, guid: 42cc18706ee438e43bc9725f9ac17b29, type: 3}
+  fixedYSpawn: 1.5
+  useFixedYSpawn: 0
+  spawn: {fileID: 0}
+  elimination: {fileID: 0}

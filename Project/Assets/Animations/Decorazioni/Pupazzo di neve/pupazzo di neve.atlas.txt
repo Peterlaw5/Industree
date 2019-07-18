@@ -1,0 +1,27 @@
+
+pupazzo di neve.png
+size: 1736,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pezzo sciarpa
+  rotate: false
+  xy: 1541, 2
+  size: 193, 310
+  orig: 193, 310
+  offset: 0, 0
+  index: -1
+faccia
+  rotate: true
+  xy: 2, 10
+  size: 922, 1537
+  orig: 922, 1537
+  offset: 0, 0
+  index: -1
+sciarpa
+  rotate: true
+  xy: 1541, 314
+  size: 618, 187
+  orig: 618, 187
+  offset: 0, 0
+  index: -1

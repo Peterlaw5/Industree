@@ -1,0 +1,30 @@
+{
+"skeleton": { "hash": "spviRM8Mmfjb9kbPio+qHCqd1Qo", "spine": "3.6.53", "width": 2116, "height": 3454, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "casetta alberi", "parent": "root", "length": 3312, "rotation": -90, "x": -33, "y": 3390 }
+],
+"slots": [
+	{ "name": "casetta alberi", "bone": "casetta alberi", "attachment": "casetta alberi" }
+],
+"skins": {
+	"default": {
+		"casetta alberi": {
+			"casetta alberi": { "x": 1674, "y": 27, "rotation": 90, "width": 2116, "height": 3454 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"casetta alberi": {
+				"rotate": [
+					{ "time": 0, "angle": 6.71 },
+					{ "time": 1.3333, "angle": -9.66 },
+					{ "time": 2.6667, "angle": 6.71 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,34 @@
+
+girasole.png
+size: 1430,959
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+centro fiore
+  rotate: false
+  xy: 2, 45
+  size: 897, 912
+  orig: 897, 912
+  offset: 0, 0
+  index: -1
+foglia dx
+  rotate: false
+  xy: 990, 132
+  size: 377, 381
+  orig: 377, 381
+  offset: 0, 0
+  index: -1
+foglia sx
+  rotate: false
+  xy: 990, 515
+  size: 438, 442
+  orig: 438, 442
+  offset: 0, 0
+  index: -1
+gambo
+  rotate: false
+  xy: 901, 2
+  size: 87, 955
+  orig: 87, 955
+  offset: 0, 0
+  index: -1

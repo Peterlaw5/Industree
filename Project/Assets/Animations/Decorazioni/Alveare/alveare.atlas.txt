@@ -1,0 +1,13 @@
+
+alveare.png
+size: 982,1580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line alveare
+  rotate: false
+  xy: 2, 2
+  size: 978, 1576
+  orig: 978, 1576
+  offset: 0, 0
+  index: -1

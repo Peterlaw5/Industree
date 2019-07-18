@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04e2d9e5e787741c0844d8f0bdd25394, type: 3}
+  m_Name: Briks
+  m_EditorClassIdentifier: 
+  itemName: Briks
+  type: 0
+  artwork: {fileID: 21300000, guid: e3f7db188ff5800449d127cb60021f6b, type: 3}
+  guid: 3a1d29799d8ace94b8b11cacb49713de

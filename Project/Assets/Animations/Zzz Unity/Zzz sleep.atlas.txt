@@ -1,0 +1,27 @@
+
+Zzz sleep.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z1
+  rotate: false
+  xy: 2, 771
+  size: 975, 1172
+  orig: 975, 1172
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 2, 2
+  size: 767, 922
+  orig: 767, 922
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 979, 1143
+  size: 666, 800
+  orig: 666, 800
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+{
+"skeleton": { "hash": "SsN3sQFuH+KrnsoGw7WPjRl1f74", "spine": "3.6.53", "width": 1957, "height": 3218, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "girandola", "parent": "root", "x": -4.45, "y": 2235.96 }
+],
+"slots": [
+	{ "name": "asse", "bone": "root", "attachment": "asse" },
+	{ "name": "girandola", "bone": "girandola", "attachment": "girandola" }
+],
+"skins": {
+	"default": {
+		"asse": {
+			"asse": { "x": -2.5, "y": 1047.5, "width": 209, "height": 2095 }
+		},
+		"girandola": {
+			"girandola": { "x": 1.95, "y": 3.04, "width": 1957, "height": 1958 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"girandola": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.5, "angle": 179.67 }
+				]
+			}
+		}
+	}
+}
+}

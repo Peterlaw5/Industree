@@ -1,0 +1,251 @@
+
+Albero.png
+size: 1676,2871
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guance
+  rotate: true
+  xy: 1224, 205
+  size: 159, 21
+  orig: 159, 21
+  offset: 0, 0
+  index: -1
+Happiness face
+  rotate: false
+  xy: 2, 45
+  size: 192, 23
+  orig: 192, 23
+  offset: 0, 0
+  index: -1
+Idle face
+  rotate: false
+  xy: 243, 70
+  size: 142, 34
+  orig: 142, 34
+  offset: 0, 0
+  index: -1
+Sadness face 2
+  rotate: false
+  xy: 1247, 227
+  size: 142, 30
+  orig: 142, 30
+  offset: 0, 0
+  index: -1
+Scared face
+  rotate: false
+  xy: 2, 70
+  size: 239, 34
+  orig: 239, 34
+  offset: 0, 0
+  index: -1
+Sleeping face
+  rotate: false
+  xy: 1004, 366
+  size: 241, 31
+  orig: 241, 31
+  offset: 0, 0
+  index: -1
+Smile mouth
+  rotate: false
+  xy: 1626, 375
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+Surprised
+  rotate: false
+  xy: 773, 71
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+braccio dx f
+  rotate: false
+  xy: 1445, 259
+  size: 179, 138
+  orig: 179, 138
+  offset: 0, 0
+  index: -1
+braccio sx f
+  rotate: true
+  xy: 944, 146
+  size: 196, 138
+  orig: 196, 138
+  offset: 0, 0
+  index: -1
+cespuglio dx f
+  rotate: true
+  xy: 810, 123
+  size: 219, 132
+  orig: 219, 132
+  offset: 0, 0
+  index: -1
+cespuglio sx f
+  rotate: false
+  xy: 1004, 399
+  size: 219, 132
+  orig: 219, 132
+  offset: 0, 0
+  index: -1
+ciglia
+  rotate: true
+  xy: 1659, 2697
+  size: 172, 15
+  orig: 172, 15
+  offset: 0, 0
+  index: -1
+foglia piccola 1
+  rotate: true
+  xy: 583, 44
+  size: 60, 93
+  orig: 60, 93
+  offset: 0, 0
+  index: -1
+foglia piccola 1 f
+  rotate: true
+  xy: 678, 44
+  size: 60, 93
+  orig: 60, 93
+  offset: 0, 0
+  index: -1
+foglia piccola 2
+  rotate: false
+  xy: 1391, 195
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+foglia piccola 2 f
+  rotate: false
+  xy: 1483, 195
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+foglia piccola 3
+  rotate: false
+  xy: 387, 46
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+foglia piccola 3 f
+  rotate: false
+  xy: 485, 46
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+foglia piccola 4
+  rotate: false
+  xy: 1575, 174
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+foglia piccola 4 f
+  rotate: true
+  xy: 196, 2
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+line braccio dx
+  rotate: true
+  xy: 1084, 168
+  size: 196, 138
+  orig: 196, 138
+  offset: 0, 0
+  index: -1
+line braccio sx
+  rotate: false
+  xy: 1247, 259
+  size: 196, 138
+  orig: 196, 138
+  offset: 0, 0
+  index: -1
+line chioma grande
+  rotate: false
+  xy: 2, 1927
+  size: 1016, 942
+  orig: 1016, 942
+  offset: 0, 0
+  index: -1
+line chioma grande f
+  rotate: false
+  xy: 2, 983
+  size: 1016, 942
+  orig: 1016, 942
+  offset: 0, 0
+  index: -1
+line chioma media
+  rotate: true
+  xy: 1020, 1201
+  size: 666, 654
+  orig: 666, 654
+  offset: 0, 0
+  index: -1
+line chioma media f
+  rotate: true
+  xy: 1020, 533
+  size: 666, 654
+  orig: 666, 654
+  offset: 0, 0
+  index: -1
+line chioma piccola
+  rotate: false
+  xy: 2, 106
+  size: 402, 236
+  orig: 402, 236
+  offset: 0, 0
+  index: -1
+line chioma piccola f
+  rotate: false
+  xy: 406, 106
+  size: 402, 236
+  orig: 402, 236
+  offset: 0, 0
+  index: -1
+line corpo
+  rotate: false
+  xy: 1020, 1869
+  size: 637, 1000
+  orig: 637, 1000
+  offset: 0, 0
+  index: -1
+line corpo f
+  rotate: true
+  xy: 2, 344
+  size: 637, 1000
+  orig: 637, 1000
+  offset: 0, 0
+  index: -1
+line mano dx
+  rotate: false
+  xy: 1225, 399
+  size: 219, 132
+  orig: 219, 132
+  offset: 0, 0
+  index: -1
+line mano sx
+  rotate: false
+  xy: 1446, 399
+  size: 219, 132
+  orig: 219, 132
+  offset: 0, 0
+  index: -1
+sadness mouth
+  rotate: false
+  xy: 281, 46
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+super happiness mouth
+  rotate: false
+  xy: 810, 98
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1

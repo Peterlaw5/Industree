@@ -1,0 +1,35 @@
+{
+"skeleton": { "hash": "JJCmcZE/PFLx1dsih0cQbDQJSrM", "spine": "3.6.53", "width": 1191.67, "height": 1013.16, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "pala con bordo", "parent": "root", "length": 279.23, "rotation": -145, "x": -0.68, "y": 0.16 }
+],
+"slots": [
+	{ "name": "pala con bordo", "bone": "pala con bordo", "attachment": "pala con bordo" }
+],
+"skins": {
+	"default": {
+		"pala con bordo": {
+			"pala con bordo": { "x": -100.99, "y": 0.39, "rotation": -90.18, "width": 435, "height": 1149 }
+		}
+	}
+},
+"animations": {
+	"pala neve": {
+		"bones": {
+			"pala con bordo": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -16.05 },
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -435.93, "y": -236.64 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,64 @@
+{
+"skeleton": { "hash": "oR6OQ6c0E88XwKxUdr34UpjqB1E", "spine": "3.6.53", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "nuvola 1", "parent": "root", "x": 3.06, "y": 193.72 }
+],
+"slots": [
+	{ "name": "nuvola 1", "bone": "nuvola 1" }
+],
+"skins": {
+	"default": {
+		"nuvola 1": {
+			"nuvola 1": { "x": 19.37, "y": 87.52, "scaleX": 1.032, "scaleY": 1.032, "width": 508, "height": 465 },
+			"nuvola 2": { "x": -2.17, "y": -14.74, "width": 752, "height": 678 },
+			"nuvola 3": { "x": -1.5, "y": -10.44, "width": 954, "height": 946 },
+			"nuvola 4": { "x": 9.8, "y": -32.95, "width": 1222, "height": 1278 },
+			"nuvola 5": { "x": 42.73, "y": -22.94, "width": 1454, "height": 1531 },
+			"nuvola 6": { "x": 37.9, "y": 4.99, "width": 1610, "height": 1697 },
+			"nuvola 7": { "x": 35.33, "y": -6.41, "width": 1893, "height": 1906 },
+			"nuvola 8": { "x": 35.33, "y": -6.41, "width": 1853, "height": 1935 },
+			"nuvola 9": { "x": 28.49, "y": -8.02, "width": 1910, "height": 1852 },
+			"nuvola 10": { "x": 21.58, "y": -16.18, "width": 1969, "height": 1949 }
+		}
+	}
+},
+"animations": {
+	"vfx nuvola": {
+		"slots": {
+			"nuvola 1": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.1667, "color": "ffffff19" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "nuvola 1" },
+					{ "time": 0.1, "name": "nuvola 2" },
+					{ "time": 0.2, "name": "nuvola 4" },
+					{ "time": 0.3, "name": "nuvola 5" },
+					{ "time": 0.4, "name": "nuvola 6" },
+					{ "time": 0.5, "name": "nuvola 7" },
+					{ "time": 0.6, "name": "nuvola 8" },
+					{ "time": 0.7, "name": "nuvola 9" },
+					{ "time": 0.8, "name": "nuvola 10" },
+					{ "time": 1.2333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"nuvola 1": {
+				"translate": [
+					{ "time": 0.1, "x": 0, "y": 117.94 }
+				],
+				"scale": [
+					{ "time": 0, "x": 2.236, "y": 2.236 },
+					{ "time": 0.1, "x": 1.909, "y": 1.909 },
+					{ "time": 0.2, "x": 1.378, "y": 1.378, "curve": "stepped" },
+					{ "time": 0.8, "x": 1.378, "y": 1.378 },
+					{ "time": 1.1667, "x": 1.509, "y": 1.509 }
+				]
+			}
+		}
+	}
+}
+}

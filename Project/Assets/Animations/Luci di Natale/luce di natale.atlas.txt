@@ -1,0 +1,27 @@
+
+luce di natale.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lampadine
+  rotate: false
+  xy: 2, 2
+  size: 1831, 1589
+  orig: 1831, 1589
+  offset: 0, 0
+  index: -1
+luci 1
+  rotate: false
+  xy: 1910, 1837
+  size: 1806, 1501
+  orig: 1806, 1501
+  offset: 0, 0
+  index: -1
+luci 2
+  rotate: false
+  xy: 2, 1593
+  size: 1906, 1745
+  orig: 1906, 1745
+  offset: 0, 0
+  index: -1

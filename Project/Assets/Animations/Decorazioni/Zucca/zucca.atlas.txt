@@ -1,0 +1,27 @@
+
+zucca.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zucca
+  rotate: false
+  xy: 2, 2
+  size: 2410, 2019
+  orig: 2410, 2019
+  offset: 0, 0
+  index: -1
+occhio sx
+  rotate: false
+  xy: 2414, 1432
+  size: 589, 589
+  orig: 589, 589
+  offset: 0, 0
+  index: -1
+occhio dx
+  rotate: false
+  xy: 2414, 1432
+  size: 589, 589
+  orig: 589, 589
+  offset: 0, 0
+  index: -1

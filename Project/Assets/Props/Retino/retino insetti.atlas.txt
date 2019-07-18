@@ -1,0 +1,13 @@
+
+retino insetti.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+retino con bordo
+  rotate: false
+  xy: 2, 2
+  size: 553, 1113
+  orig: 553, 1113
+  offset: 0, 0
+  index: -1
